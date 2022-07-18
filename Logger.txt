@@ -1,0 +1,5 @@
+ 2022-07-18 20:59:09,611 root Extraction started !!
+ 2022-07-18 20:59:13,694 root https://www.grandviewresearch.com/industry/consumer-goods
+ 2022-07-18 20:59:13,694 root The Extraction is complete
+ 2022-07-18 20:59:23,699 root The extraction is loaded to data frame
+ 2022-07-18 20:59:23,900 root EXCEL File is Created!!!!
