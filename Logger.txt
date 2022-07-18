@@ -3,3 +3,38 @@
  2022-07-18 20:59:13,694 root The Extraction is complete
  2022-07-18 20:59:23,699 root The extraction is loaded to data frame
  2022-07-18 20:59:23,900 root EXCEL File is Created!!!!
+ 2022-07-18 21:11:02,930 root Extraction started !!
+ 2022-07-18 21:11:06,983 root https://www.grandviewresearch.com/industry/advanced-materials
+ 2022-07-18 21:11:06,983 root The Extraction is complete
+ 2022-07-18 21:11:17,000 root The extraction is loaded to data frame
+ 2022-07-18 21:11:17,250 root EXCEL File is Created!!!!
+ 2022-07-18 21:11:50,461 root Extraction started !!
+ 2022-07-18 21:11:53,643 root https://www.grandviewresearch.com/industry/semiconductors-and-electronics
+ 2022-07-18 21:11:53,644 root The Extraction is complete
+ 2022-07-18 21:12:03,656 root The extraction is loaded to data frame
+ 2022-07-18 21:12:03,851 root EXCEL File is Created!!!!
+ 2022-07-18 21:12:19,525 root Extraction started !!
+ 2022-07-18 21:12:25,957 root https://www.grandviewresearch.com/industry/healthcare
+ 2022-07-18 21:12:25,957 root The Extraction is complete
+ 2022-07-18 21:12:35,970 root The extraction is loaded to data frame
+ 2022-07-18 21:12:36,304 root EXCEL File is Created!!!!
+ 2022-07-18 21:12:54,773 root Extraction started !!
+ 2022-07-18 21:12:58,099 root https://www.grandviewresearch.com/industry/specialty-and-fine-chemicals
+ 2022-07-18 21:12:58,099 root The Extraction is complete
+ 2022-07-18 21:13:08,109 root The extraction is loaded to data frame
+ 2022-07-18 21:13:08,240 root EXCEL File is Created!!!!
+ 2022-07-18 21:13:20,589 root Extraction started !!
+ 2022-07-18 21:13:35,106 root https://www.grandviewresearch.com/industry/technology
+ 2022-07-18 21:13:35,106 root The Extraction is complete
+ 2022-07-18 21:13:45,118 root The extraction is loaded to data frame
+ 2022-07-18 21:13:45,337 root EXCEL File is Created!!!!
+ 2022-07-18 21:14:03,343 root Extraction started !!
+ 2022-07-18 21:14:06,812 root https://www.grandviewresearch.com/industry/food-and-beverages
+ 2022-07-18 21:14:06,812 root The Extraction is complete
+ 2022-07-18 21:14:16,826 root The extraction is loaded to data frame
+ 2022-07-18 21:14:16,998 root EXCEL File is Created!!!!
+ 2022-07-18 21:14:35,119 root Extraction started !!
+ 2022-07-18 21:14:38,321 root https://www.grandviewresearch.com/industry/bulk-chemicals
+ 2022-07-18 21:14:38,321 root The Extraction is complete
+ 2022-07-18 21:14:48,335 root The extraction is loaded to data frame
+ 2022-07-18 21:14:48,538 root EXCEL File is Created!!!!
