@@ -20,7 +20,7 @@ Title = []
 
 # To iterate through the links in the page_links
 
-for links in Page_links[:7]:
+for links in Page_links:
     logging.info(str(links))
     try:
         logging.info('Extraction Started for URL' + str(links))
