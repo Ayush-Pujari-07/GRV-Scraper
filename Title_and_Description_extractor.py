@@ -5,7 +5,7 @@ import time
 from urllib.request import Request, urlopen
 
 # Input the Path where the Excel file located
-File_path = input(f'Give the file path: ')
+File_path = input(f'Give the file path:\n')
 # read the Excel fil with pandas library
 df = pd.read_excel(File_path)
 # get the column name form the provided path
