@@ -13,7 +13,8 @@ list_name = File_path.split('\\')[7].split('.')[0]
 # convert the column to the list to iterate the links further
 Page_links = df[f'{list_name}'].tolist()
 
-logging.basicConfig(filename=f'{list_name}.txt', level=logging.DEBUG, format=' %(asctime)s %(name)s %(message)s')
+logging.basicConfig(filename=f"C:\\Users\\user\\Desktop\\Project\\GVR_Scrapper\\Logging's\\{list_name}.txt",
+                    level=logging.DEBUG, format=' %(asctime)s %(name)s %(message)s')
 
 Title_description = []
 Title = []
